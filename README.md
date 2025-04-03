@@ -7,7 +7,7 @@
 Здесь укажите имя вашего бакета: s3-student-mle-20241021-f2a23d930e
 
 Этап 1:
-Для запуска Mlflow используется скрипт run_mlflow_server.sh
+Для запуска Mlflow используется скрипт run_mlflow_server.sh 
 da2610e6cfe2414cb55c5fd0b8a0cb0f -  Run ID
 16 - Experiment ID 
 sprint1_model_price
